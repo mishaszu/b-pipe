@@ -1,19 +1,19 @@
 {
-  "name": "curryjs",
+  "name": "pipe-map",
   "version": "0.0.1",
   "description": "",
-  "main": "curry.js",
+  "main": "pipemap.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mishaszu/curryjs.git"
+    "url": "git+https://github.com/mishaszu/pipe-map.git"
   },
   "author": "mishaszu@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mishaszu/curryjs/issues"
+    "url": "https://github.com/mishaszu/pipe-map/issues"
   },
-  "homepage": "https://github.com/mishaszu/curryjs#readme"
+  "homepage": "https://github.com/mishaszu/pipe-map#readme"
 }

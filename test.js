@@ -1,4 +1,4 @@
-var c = require('./curry.js')
+var pipe = require('./pipe-map.js')
 
 function t1 (x) {
  return x + 1 
@@ -13,6 +13,6 @@ function print(x) {
   return x
 }
 
-var tester = c(t1, print, t2, print)
+var tester = pipe(t1, print, t2, print)
 
 tester(1)
