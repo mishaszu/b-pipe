@@ -1,19 +1,19 @@
 {
-  "name": "pipe-map",
+  "name": "b-pipe",
   "version": "0.0.1",
   "description": "",
-  "main": "pipemap.js",
+  "main": "b-pipe.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mishaszu/pipe-map.git"
+    "url": "git+https://github.com/mishaszu/b-pipe.git"
   },
   "author": "mishaszu@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mishaszu/pipe-map/issues"
+    "url": "https://github.com/mishaszu/b-pipe/issues"
   },
-  "homepage": "https://github.com/mishaszu/pipe-map#readme"
+  "homepage": "https://github.com/mishaszu/b-pipe#readme"
 }

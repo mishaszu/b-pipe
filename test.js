@@ -1,4 +1,4 @@
-var pipe = require('./pipe-map.js')
+var pipe = require('./b-pipe.js')
 
 function t1 (x) {
  return x + 1 
