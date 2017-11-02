@@ -1,4 +1,4 @@
-function curry () {
+function Pipe () {
   var args = arguments
   return function (z) {
     for(var x = 0, max = args.length; x < max; x++) {
@@ -8,4 +8,4 @@ function curry () {
   }
 }
 
-module.exports = curry
+module.exports = Pipe
