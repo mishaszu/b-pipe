@@ -1,17 +1,17 @@
 {
   "name": "b-pipe",
   "version": "0.0.2",
-  "description": "",
-  "main": "b-pipe.js",
+  "description": "functional programming currying",
+  "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node ./test/test.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mishaszu/b-pipe.git"
   },
   "author": "mishaszu@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mishaszu/b-pipe/issues"
   },
